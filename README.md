@@ -29,13 +29,14 @@ I should be able to:
 
 ### Screenshot
 
-![](./intro-component-with-signup-form-master/images/desktop-screenshot.jpeg)
-![](./intro-component-with-signup-form-master/images/mobile-screenshot.jpeg)
+![](/images/desktop-screenshot.jpeg)
+![](/images/mobile-screenshot.jpeg)
+
 
 ### Links
 
 - Solution URL: [repositry site ](https://github.com/3omeed/intro-component-with-signup-form-master.git)
-- Live Site URL: [live site URL ](https://your-live-site-url.com)
+- Live Site URL: [live site URL ](https://3omeed.github.io/intro-component-with-signup-form-master/)
 
 ## My process
 
